@@ -1,0 +1,6 @@
+body{background-color: blanchedalmond;}
+h1{font: bolder; font-size: 100px;color: aqua;font-family: 'Gill Sans';}
+img{border-style: dotted; border-color: black; border-width: 10px;}
+body{color: blueviolet;font-size: 19px; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; text-align: center;}:not(h1):not(h2):not(table)
+body{column-count: 2;}
+table{color: brown; font:500;}
