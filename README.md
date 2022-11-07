@@ -1,0 +1,2 @@
+# veebilehe-repo
+Seminari veeblileht
